@@ -59,3 +59,4 @@ create table Genre_of_film (
   city nvarchar(40) not null,
   adress_of_cinema nvarchar (50) not null,
   mobile_phone_of_cinema int not null
+  )
